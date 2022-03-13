@@ -1,2 +1,2 @@
 # EnesDereHomeworks
-PatikaDev-Logo-Net-Bootcamp
+Enes Dere PatikaDev-Logo-Net-Bootcamp Homeworks
