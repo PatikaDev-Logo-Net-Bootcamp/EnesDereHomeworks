@@ -5763,11 +5763,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Desktop\\First.App\\First.App.Core\\First.App.Business.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.Core\\First.App.Business.csproj",
       "projectName": "First.App.Business",
-      "projectPath": "C:\\Users\\PC\\Desktop\\First.App\\First.App.Core\\First.App.Business.csproj",
+      "projectPath": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.Core\\First.App.Business.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Desktop\\First.App\\First.App.Core\\obj\\",
+      "outputPath": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5787,11 +5787,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\PC\\Desktop\\First.App\\First.App.DataAccess.EntityFramework.Repository\\First.App.DataAccess.EntityFramework.Repository.csproj": {
-              "projectPath": "C:\\Users\\PC\\Desktop\\First.App\\First.App.DataAccess.EntityFramework.Repository\\First.App.DataAccess.EntityFramework.Repository.csproj"
+            "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.DataAccess.EntityFramework.Repository\\First.App.DataAccess.EntityFramework.Repository.csproj": {
+              "projectPath": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.DataAccess.EntityFramework.Repository\\First.App.DataAccess.EntityFramework.Repository.csproj"
             },
-            "C:\\Users\\PC\\Desktop\\First.App\\First.App.Domain\\First.App.Domain.csproj": {
-              "projectPath": "C:\\Users\\PC\\Desktop\\First.App\\First.App.Domain\\First.App.Domain.csproj"
+            "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.Domain\\First.App.Domain.csproj": {
+              "projectPath": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.Domain\\First.App.Domain.csproj"
             }
           }
         }

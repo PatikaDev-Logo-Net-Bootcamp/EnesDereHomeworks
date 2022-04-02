@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Desktop\\First.App\\First.API\\First.API.csproj": {}
+    "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.API\\First.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Desktop\\First.App\\First.API\\First.API.csproj": {
+    "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.API\\First.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\First.App\\First.API\\First.API.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.API\\First.API.csproj",
         "projectName": "First.API",
-        "projectPath": "C:\\Users\\PC\\Desktop\\First.App\\First.API\\First.API.csproj",
+        "projectPath": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.API\\First.API.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\First.App\\First.API\\obj\\",
+        "outputPath": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,17 +31,17 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\PC\\Desktop\\First.App\\First.App.Core\\First.App.Business.csproj": {
-                "projectPath": "C:\\Users\\PC\\Desktop\\First.App\\First.App.Core\\First.App.Business.csproj"
+              "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.Core\\First.App.Business.csproj": {
+                "projectPath": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.Core\\First.App.Business.csproj"
               },
-              "C:\\Users\\PC\\Desktop\\First.App\\First.App.DataAccess.EntityFramework.Repository\\First.App.DataAccess.EntityFramework.Repository.csproj": {
-                "projectPath": "C:\\Users\\PC\\Desktop\\First.App\\First.App.DataAccess.EntityFramework.Repository\\First.App.DataAccess.EntityFramework.Repository.csproj"
+              "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.DataAccess.EntityFramework.Repository\\First.App.DataAccess.EntityFramework.Repository.csproj": {
+                "projectPath": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.DataAccess.EntityFramework.Repository\\First.App.DataAccess.EntityFramework.Repository.csproj"
               },
-              "C:\\Users\\PC\\Desktop\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj": {
-                "projectPath": "C:\\Users\\PC\\Desktop\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj"
+              "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj": {
+                "projectPath": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj"
               },
-              "C:\\Users\\PC\\Desktop\\First.App\\Homework5WorkerService\\Homework5WorkerService.csproj": {
-                "projectPath": "C:\\Users\\PC\\Desktop\\First.App\\Homework5WorkerService\\Homework5WorkerService.csproj"
+              "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\Homework5WorkerService\\Homework5WorkerService.csproj": {
+                "projectPath": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\Homework5WorkerService\\Homework5WorkerService.csproj"
               }
             }
           }
@@ -111,14 +111,14 @@
         }
       }
     },
-    "C:\\Users\\PC\\Desktop\\First.App\\First.App.Core\\First.App.Business.csproj": {
+    "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.Core\\First.App.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\First.App\\First.App.Core\\First.App.Business.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.Core\\First.App.Business.csproj",
         "projectName": "First.App.Business",
-        "projectPath": "C:\\Users\\PC\\Desktop\\First.App\\First.App.Core\\First.App.Business.csproj",
+        "projectPath": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.Core\\First.App.Business.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\First.App\\First.App.Core\\obj\\",
+        "outputPath": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -138,11 +138,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\PC\\Desktop\\First.App\\First.App.DataAccess.EntityFramework.Repository\\First.App.DataAccess.EntityFramework.Repository.csproj": {
-                "projectPath": "C:\\Users\\PC\\Desktop\\First.App\\First.App.DataAccess.EntityFramework.Repository\\First.App.DataAccess.EntityFramework.Repository.csproj"
+              "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.DataAccess.EntityFramework.Repository\\First.App.DataAccess.EntityFramework.Repository.csproj": {
+                "projectPath": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.DataAccess.EntityFramework.Repository\\First.App.DataAccess.EntityFramework.Repository.csproj"
               },
-              "C:\\Users\\PC\\Desktop\\First.App\\First.App.Domain\\First.App.Domain.csproj": {
-                "projectPath": "C:\\Users\\PC\\Desktop\\First.App\\First.App.Domain\\First.App.Domain.csproj"
+              "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.Domain\\First.App.Domain.csproj": {
+                "projectPath": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.Domain\\First.App.Domain.csproj"
               }
             }
           }
@@ -175,14 +175,14 @@
         }
       }
     },
-    "C:\\Users\\PC\\Desktop\\First.App\\First.App.DataAccess.EntityFramework.Repository\\First.App.DataAccess.EntityFramework.Repository.csproj": {
+    "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.DataAccess.EntityFramework.Repository\\First.App.DataAccess.EntityFramework.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\First.App\\First.App.DataAccess.EntityFramework.Repository\\First.App.DataAccess.EntityFramework.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.DataAccess.EntityFramework.Repository\\First.App.DataAccess.EntityFramework.Repository.csproj",
         "projectName": "First.App.DataAccess.EntityFramework.Repository",
-        "projectPath": "C:\\Users\\PC\\Desktop\\First.App\\First.App.DataAccess.EntityFramework.Repository\\First.App.DataAccess.EntityFramework.Repository.csproj",
+        "projectPath": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.DataAccess.EntityFramework.Repository\\First.App.DataAccess.EntityFramework.Repository.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\First.App\\First.App.DataAccess.EntityFramework.Repository\\obj\\",
+        "outputPath": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.DataAccess.EntityFramework.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -202,8 +202,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\PC\\Desktop\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj": {
-                "projectPath": "C:\\Users\\PC\\Desktop\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj"
+              "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj": {
+                "projectPath": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj"
               }
             }
           }
@@ -242,14 +242,14 @@
         }
       }
     },
-    "C:\\Users\\PC\\Desktop\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj": {
+    "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj",
         "projectName": "First.App.DataAccess.EntityFramework",
-        "projectPath": "C:\\Users\\PC\\Desktop\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj",
+        "projectPath": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\First.App\\First.App.DataAccess.EntityFramework\\obj\\",
+        "outputPath": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.DataAccess.EntityFramework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -269,8 +269,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\PC\\Desktop\\First.App\\First.App.Domain\\First.App.Domain.csproj": {
-                "projectPath": "C:\\Users\\PC\\Desktop\\First.App\\First.App.Domain\\First.App.Domain.csproj"
+              "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.Domain\\First.App.Domain.csproj": {
+                "projectPath": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.Domain\\First.App.Domain.csproj"
               }
             }
           }
@@ -325,14 +325,14 @@
         }
       }
     },
-    "C:\\Users\\PC\\Desktop\\First.App\\First.App.Domain\\First.App.Domain.csproj": {
+    "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.Domain\\First.App.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\First.App\\First.App.Domain\\First.App.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.Domain\\First.App.Domain.csproj",
         "projectName": "First.App.Domain",
-        "projectPath": "C:\\Users\\PC\\Desktop\\First.App\\First.App.Domain\\First.App.Domain.csproj",
+        "projectPath": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.Domain\\First.App.Domain.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\First.App\\First.App.Domain\\obj\\",
+        "outputPath": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -382,14 +382,14 @@
         }
       }
     },
-    "C:\\Users\\PC\\Desktop\\First.App\\Homework5WorkerService\\Homework5WorkerService.csproj": {
+    "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\Homework5WorkerService\\Homework5WorkerService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\First.App\\Homework5WorkerService\\Homework5WorkerService.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\Homework5WorkerService\\Homework5WorkerService.csproj",
         "projectName": "Homework5WorkerService",
-        "projectPath": "C:\\Users\\PC\\Desktop\\First.App\\Homework5WorkerService\\Homework5WorkerService.csproj",
+        "projectPath": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\Homework5WorkerService\\Homework5WorkerService.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\First.App\\Homework5WorkerService\\obj\\",
+        "outputPath": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\Homework5WorkerService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -409,11 +409,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\PC\\Desktop\\First.App\\First.App.Core\\First.App.Business.csproj": {
-                "projectPath": "C:\\Users\\PC\\Desktop\\First.App\\First.App.Core\\First.App.Business.csproj"
+              "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.Core\\First.App.Business.csproj": {
+                "projectPath": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.Core\\First.App.Business.csproj"
               },
-              "C:\\Users\\PC\\Desktop\\First.App\\First.App.Domain\\First.App.Domain.csproj": {
-                "projectPath": "C:\\Users\\PC\\Desktop\\First.App\\First.App.Domain\\First.App.Domain.csproj"
+              "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.Domain\\First.App.Domain.csproj": {
+                "projectPath": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.Domain\\First.App.Domain.csproj"
               }
             }
           }

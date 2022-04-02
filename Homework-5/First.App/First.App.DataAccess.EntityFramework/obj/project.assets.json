@@ -5821,11 +5821,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Desktop\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj",
       "projectName": "First.App.DataAccess.EntityFramework",
-      "projectPath": "C:\\Users\\PC\\Desktop\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj",
+      "projectPath": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Desktop\\First.App\\First.App.DataAccess.EntityFramework\\obj\\",
+      "outputPath": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.DataAccess.EntityFramework\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5845,8 +5845,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\PC\\Desktop\\First.App\\First.App.Domain\\First.App.Domain.csproj": {
-              "projectPath": "C:\\Users\\PC\\Desktop\\First.App\\First.App.Domain\\First.App.Domain.csproj"
+            "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.Domain\\First.App.Domain.csproj": {
+              "projectPath": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.Domain\\First.App.Domain.csproj"
             }
           }
         }

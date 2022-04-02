@@ -5744,11 +5744,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Desktop\\First.App\\First.App.DataAccess.EntityFramework.Repository\\First.App.DataAccess.EntityFramework.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.DataAccess.EntityFramework.Repository\\First.App.DataAccess.EntityFramework.Repository.csproj",
       "projectName": "First.App.DataAccess.EntityFramework.Repository",
-      "projectPath": "C:\\Users\\PC\\Desktop\\First.App\\First.App.DataAccess.EntityFramework.Repository\\First.App.DataAccess.EntityFramework.Repository.csproj",
+      "projectPath": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.DataAccess.EntityFramework.Repository\\First.App.DataAccess.EntityFramework.Repository.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Desktop\\First.App\\First.App.DataAccess.EntityFramework.Repository\\obj\\",
+      "outputPath": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.DataAccess.EntityFramework.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5768,8 +5768,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\PC\\Desktop\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj": {
-              "projectPath": "C:\\Users\\PC\\Desktop\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj"
+            "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj": {
+              "projectPath": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj"
             }
           }
         }

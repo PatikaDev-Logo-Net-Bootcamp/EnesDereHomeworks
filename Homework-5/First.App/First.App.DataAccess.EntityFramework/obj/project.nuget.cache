@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5PwK3J1VEq5Q3jPvjY54NeXWrFQDg+iS4KwdRU+KgVkSxGEKd58q+YEpCGepJsrYVsp0w7AGqviZ2SEky/jSgg==",
+  "dgSpecHash": "Hgk1I7N+g5Vlm2Yy/Z8hPQZ0R+shvGaAxSt9nqmcMsFOcmXo0BT/sunOItfC4oKjiUMnxDEwX9iLPg/okMq4wQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj",
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

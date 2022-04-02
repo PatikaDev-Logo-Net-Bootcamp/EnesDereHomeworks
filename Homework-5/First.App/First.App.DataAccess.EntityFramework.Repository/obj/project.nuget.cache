@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vm2PHkGEnxt+TVfolLj+NhqbApRsJkIpH3ctm8vggHygsdfArSPyFlNE098kEk/ONZMyK2LOUpzGezVItG8Kew==",
+  "dgSpecHash": "Go20/c9Tq0ha3Yt1AnK5waG25NBcBzt5HNHzF1wt8VbHUmFKxQRBnylbmdpXppQUI8/Ed46go/u9yJShRmVHHQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\First.App\\First.App.DataAccess.EntityFramework.Repository\\First.App.DataAccess.EntityFramework.Repository.csproj",
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.App.DataAccess.EntityFramework.Repository\\First.App.DataAccess.EntityFramework.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

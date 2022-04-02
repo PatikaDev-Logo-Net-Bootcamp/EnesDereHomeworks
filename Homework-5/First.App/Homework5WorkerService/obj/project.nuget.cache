@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nyii69PncDqis0I3KcT6n3q/uMhgU7KH4QxK12MpHPFai6gn/0PulbqzjcCSnOL3ZAAh1KnRo9pfc1TYk7ie7w==",
+  "dgSpecHash": "rrbOYPg7t3UcfR9XvKnRykPV4CnZXZU1xA7yoGccMjGPdhniPofpncF0AoOiv5u3e75LVQB24IYReIWeRGHsPw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\First.App\\Homework5WorkerService\\Homework5WorkerService.csproj",
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\Homework5WorkerService\\Homework5WorkerService.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

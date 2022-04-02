@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dS6wTHHWBpcAc0vC8TCy2X6xwaA/5EaK71qNYuTa9KgK4Vzq28mw0V9Rc3K9kUaBuPssTEU6uXmmM9CEXXMX/w==",
+  "dgSpecHash": "ulB18bM1Q9q0qcoeuHrv8p7goGLQ9+HvOy9toGNe/9Id9IwIlvi8eaZa854lryJSpBu78FMCkNi7Y3dCpjpjIw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\First.App\\First.API\\First.API.csproj",
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\EnesDereHomeworks\\Homework-5\\First.App\\First.API\\First.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.23\\microsoft.aspnetcore.authentication.jwtbearer.3.1.23.nupkg.sha512",
