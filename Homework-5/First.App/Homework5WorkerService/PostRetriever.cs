@@ -31,7 +31,6 @@ namespace Homework5WorkerService
         public override Task StartAsync(CancellationToken cancellationToken)
         {
             _httpClient = new HttpClient();
-           // _postService = new PostService(new PostRepository<Post>(new UnitOfWork(new AppDbContext(options => options.)), new UnitOfWork(_dbContext));
             return base.StartAsync(cancellationToken);
         }
         protected override async Task ExecuteAsync(CancellationToken stoppingToken)
@@ -46,9 +45,6 @@ namespace Homework5WorkerService
                     var result = JsonConvert.DeserializeObject<List<Post>>(request.Content.ReadAsStringAsync().Result);
                     result.ForEach(x => _postQueue.Enqueue(x));
                     _logger.LogInformation("Posts successfully Enqueue");
-                    //var result = JsonConvert.DeserializeObject<List<Post>>(request.Content.ReadAsStringAsync().Result);
-                    //var scope = _serviceScopeFactory.CreateScope();
-                    //result.ForEach(x=> scope.ServiceProvider.GetService<IPostService>().Add(x)); 
                 }
                 else
                 {
