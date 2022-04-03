@@ -43,7 +43,7 @@ namespace Homework5WorkerService
                 if (request.IsSuccessStatusCode)
                 {
                     var result = JsonConvert.DeserializeObject<List<Post>>(request.Content.ReadAsStringAsync().Result);
-                    result.ForEach(x => _postQueue.Enqueue(x));
+                    result.ForEach(x => _postQueue.Queued(x));
                     _logger.LogInformation("Posts successfully Enqueue");
                 }
                 else
